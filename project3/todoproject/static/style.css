@@ -1,0 +1,15 @@
+body{background-color: Lavender;}
+
+.banner{background-color:MediumVioletRed;
+width: 100%;
+height: 200px;
+margin-bottom: 50px;}
+
+h1{color:White;}
+
+.banner-text{
+top: 20%;
+left: 35%;
+position:absolute;
+transform:transform;
+}
